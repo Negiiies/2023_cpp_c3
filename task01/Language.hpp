@@ -2,9 +2,9 @@
 #define LANGUAGE_HPP_
 
 enum class Language {
-  French,
-  Spanish,
-  English,
+    French,
+    Spanish,
+    English,
 
 };
 
